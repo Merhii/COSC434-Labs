@@ -1,0 +1,11 @@
+#main{
+    display: flex;
+    flex-direction: column;
+
+}
+.unordered{
+    border: 2px solid black;
+    margin: 2%;
+    width: max-content;
+    padding: 5%;
+}
